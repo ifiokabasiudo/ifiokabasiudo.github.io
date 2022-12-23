@@ -148,6 +148,7 @@ a:hover {
   background: rgba(38, 34, 98, 0.6);
   padding: 5% 5%;
   border-radius: 25px;
+ display: inline-block;
 }
 
 .page2-html-size {
